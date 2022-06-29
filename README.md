@@ -4,7 +4,7 @@ Next goal is to incarnate user verification function on Sign In page using the i
 # Link to published project
 [GO TO SITE](https://nrdydoggo.github.io/)
 # Personal note (Tips for myself)
-[How to publish website on Github]<br />
+[How to publish website on Github]<br /><br />
 You can create website on github by below method.<br />
 1. Create Repository on github.<br />
 2. Name your repository "username.github.io" to create publishable website.
